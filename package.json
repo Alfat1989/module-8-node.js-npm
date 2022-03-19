@@ -1,0 +1,22 @@
+{
+  "name": "module-8",
+  "version": "1.0.0",
+  "description": "NPM basic",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alfat1989/module-8-node.js-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alfat1989/module-8-node.js-npm/issues"
+  },
+  "homepage": "https://github.com/Alfat1989/module-8-node.js-npm#readme",
+  "dependencies": {
+    "joi": "^17.6.0"
+  }
+}
